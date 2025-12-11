@@ -32,10 +32,10 @@ export default function Contact() {
 
     emailjs
       .send(
-        "service_cdw3bba",
-        "template_e9g4nbt",
+        "service_rhifgrq",
+        "template_218ene8",
         { name, email, message, time: currentTime, firstLetter },
-        "GuJVC9WteISRrexWC"
+        "KarvchfDNjrOpI3UM"
       )
       .then(() => {
         setSent(true);
@@ -204,10 +204,10 @@ export default function Contact() {
             <div>
               <h3 className="text-white font-semibold">Email</h3>
               <a
-                href="mailto:izikdev101@gmail.com"
+                href="mailto:contact.izik@gmail.com"
                 className="text-gray-400 hover:text-blue-400 transition-colors"
               >
-                izikdev101@gmail.com
+                contact.izik@gmail.com
               </a>
             </div>
           </div>
@@ -225,7 +225,7 @@ export default function Contact() {
       <h3 className="text-white font-semibold mb-3">Follow</h3>
       <div className="flex space-x-5 text-2xl">
         {[
-          { href: "https://linkedin.com/in/izikdev", icon: <FaLinkedin />, color: "#2563eb" },
+          { href: "https://linkedin.com/in/izik55", icon: <FaLinkedin />, color: "#2563eb" },
           { href: "https://twitter.com/@izik_4545", icon: <FaTwitter />, color: "#38bdf8" },
           { href: "https://instagram.com/izikcharles", icon: <FaInstagram />, color: "#ec4899" },
           { href: "https://wa.me/2348075005248", icon: <FaWhatsapp />, color: "#22c55e" },
