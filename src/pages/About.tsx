@@ -260,7 +260,7 @@ export default function About() {
         transition={{ duration: 1.2 }}
       >
         <p className="text-gray-400 mb-6">
-          If you’d like to create something meaningful in the digital space, I’d be glad to hear from you.
+          If you’d like to build something meaningful in the digital space, I’d be glad to hear from you.
         </p>
         <Link
           to="/contact"
