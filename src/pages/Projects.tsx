@@ -15,14 +15,14 @@ const projects = [
     desc: "A donation platform for the Sickle Cell Foundation UK, designed for seamless contributions with responsive layouts and secure payments.",
     img: "/images/scfukhome.jpeg",
     type: "code",
-    link: "https://github.com/yourusername/scfuk",
+    link: "https://github.com/izikcodes/scfuk",
   },
   {
     title: "ZEOrbit",
     desc: "ZEOrbit is a clean, responsive front-end interface for a modern one-touch payment solution, crafted to help businesses strengthen their revenue systems and scale with confidence.",
     img: "/images/ZEOrbit.jpeg",
     type: "code",
-    link: "https://github.com/Izik-dev101/ZEOrbit",
+    link: "https://github.com/izikcodes/ZEOrbit",
   },
 ];
 

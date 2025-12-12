@@ -113,7 +113,7 @@ useEffect(() => {
 const testimonials = [
   {
     quote: "Izik crafted my project with a sence of peace and rhyme — structured, scalable, elegant, and profoundly thoughtful.",
-    author: "Mr. Nnaemeka Achor.",
+    author: "Mr. Aron Emeka.",
     role: "Happy Client",
     img: "/images/anchor.jpg",
   },
@@ -406,14 +406,14 @@ return (
       title: "SCFUK",
       desc: "A donation platform for the Sickle Cell Foundation UK, designed for seamless contributions with responsive layouts, secure payments, and intuitive navigation.",
       img: "/images/scfukhome.jpeg",
-      link: "https://github.com/Izik-dev101/SCFUK",
+      link: "https://github.com/izikcodes/SCFUK",
       type: "code",
     },
     {
       title: "ZEOrbit",
       desc: "ZEOrbit is a clean, responsive front-end interface for a modern one-touch payment solution, crafted to help businesses strengthen their revenue systems and scale with confidence.",
       img: "/images/ZEOrbit.jpeg",
-      link: "https://github.com/Izik-dev101/ZEOrbit",
+      link: "https://github.com/izikcodes/ZEOrbit",
       type: "code",
     },
     {
