@@ -25,9 +25,9 @@ A curated selection of demonstration projects highlighting robust, maintainable 
 | Project	| Description                                                                              |
 |-----------|------------------------------------------------------------------------------------------|
 | SCFUK     | Donation platform for Sickle Cell Foundation UK — streamlined for efficiency and impact. |
-|            [https://github.com/Izik-dev101/SCFUK](https://github.com/Izik-dev101/SCFUK)              |
+|            [https://github.com/IzikCodes/SCFUK](https://github.com/IzikCodes/SCFUK)                  |
 | ZEOrbit   | Responsive front-end for a one-touch payment solution — intuitive, fast, and modern.     |
-|            [https://github.com/Izik-dev101/ZEOrbit](https://github.com/Izik-dev101/ZEOrbit)          |
+|            [https://github.com/IzikCodes/ZEOrbit](https://github.com/IzikCodes/ZEOrbit)              |
 | DailyBlog | Community blogging platform with clean, modular architecture and interactive features.   |
 
 ## 🎯 Vision
