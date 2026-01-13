@@ -47,10 +47,10 @@ Web Developer
 
 ## 📬 Contact
 
-- **Email:** [izikdev101@gmail.com](mailto:izikdev101@gmail.com)
+- **Email:** [contact.izik@gmail.com](mailto:contact.izik@gmail.com)
 - **WhatsApp:** [https://wa.me/2348075005248](https://wa.me/2348075005248)
-- **Twitter:** [https://twitter.com/izik_4545](https://twitter.com/izik_4545)
-- **GitHub:** [https://github.com/Izik-dev101](https://github.com/Izik-dev101)
+- **Twitter:** [https://twitter.com/izikcharles](https://twitter.com/izikcharles)
+- **GitHub:** [https://github.com/IzikCodes](https://github.com/IzikCodes)
 
 ## 📄 License
 

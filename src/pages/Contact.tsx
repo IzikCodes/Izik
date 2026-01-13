@@ -9,8 +9,8 @@ import {
   FaTwitter,
   FaInstagram,
   FaWhatsapp,
-  FaPinterest,
   FaGithub,
+  FaFacebook,
 } from "react-icons/fa";
 import emailjs from "@emailjs/browser";
 
@@ -225,11 +225,11 @@ export default function Contact() {
       <h3 className="text-white font-semibold mb-3">Follow</h3>
       <div className="flex space-x-5 text-2xl">
         {[
-          { href: "https://linkedin.com/in/izikcodes", icon: <FaLinkedin />, color: "#2563eb" },
-          { href: "https://twitter.com/@izikcodes", icon: <FaTwitter />, color: "#38bdf8" },
-          { href: "https://instagram.com/izikcodes", icon: <FaInstagram />, color: "#ec4899" },
+          { href: "https://linkedin.com/in/izikcharles", icon: <FaLinkedin />, color: "#2563eb" },
+          { href: "https://twitter.com/@izikcharles", icon: <FaTwitter />, color: "#38bdf8" },
+          { href: "https://instagram.com/izikcharles", icon: <FaInstagram />, color: "#ec4899" },
           { href: "https://wa.me/2348075005248", icon: <FaWhatsapp />, color: "#22c55e" },
-          { href: "https://pinterest.com/izikcodes", icon: <FaPinterest />, color: "#ef4444" },
+          { href: "https://facebook.com/izikcharles", icon: <FaFacebook />, color: "#2563eb" },
           { href: "https://github.com/izikcodes", icon: <FaGithub />, color: "#9ca3af" },
         ].map((social, i) => (
         <motion.a
